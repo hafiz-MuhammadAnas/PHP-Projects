@@ -1,0 +1,16 @@
+FOR ADMIN LOGIN:
+
+USERNAME:Saboor     PASSWORD:khan
+
+
+FOR USER LOGIN:
+
+USERNAME:asaad  PASSWORD:asad
+USERNAME:umer     PASSWORD:ume
+
+
+FOR DOCTOR LOGIN:
+
+USERNAME: zulfiqar  PASSWORD:zulfi
+USERNAME: mehmood     PASSWORD:meh
+
